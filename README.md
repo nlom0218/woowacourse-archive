@@ -14,8 +14,9 @@
 
 ---
 
-## 1️⃣ Level 1
+## 1️⃣ Level 1 - 프로그래밍 기본
 
 |       미션        | 기간 | Repository | PR & Review | 회고록 |
 | :---------------: | :--: | ---------- | ----------- | ------ |
-| 자동차 경주 1단계 |
+| 자동차 경주 1단계 | `23-02-07` - `23-02-09`| [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/nlom0218-step1)| [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178)|[회고록]()|
+
