@@ -16,6 +16,7 @@
 
 ## 1️⃣ Level 1 - 프로그래밍 기본
 
-|       미션        |          기간           | Repository                                                           | PR & Review                                                                 | 회고록                                                                   |
-| :---------------: | :---------------------: | -------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 자동차 경주 1단계 | `23-02-07` - `23-02-09` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/main) | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178) | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1-step1) |
+|       미션        |          기간           | Repository                                                                     | PR & Review                                                                 | 회고록                                                                   |
+| :---------------: | :---------------------: | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 자동차 경주 1단계 | `23-02-07` - `23-02-09` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/main)           | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178) | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1-step1) |
+| 자동차 경주 2단계 | `23-02-10` - `23-02-13` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/nlom0218-step2) | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/242) |                                                                          |
