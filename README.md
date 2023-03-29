@@ -2,13 +2,13 @@
 
 ## 0️⃣ 프리코스
 
-|       미션       |          기간           | Repository                                                              | 회고록                                                                    |
-| :--------------: | :---------------------: | ----------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+|       미션       |          기간           |                               Repository                                | 회고록                                                                    |
+| :--------------: | :---------------------: | :---------------------------------------------------------------------: | ------------------------------------------------------------------------- |
 |      온보딩      | `22-10-26` - `22-11-01` | [Repo](https://github.com/nlom0218/javascript-onboarding/tree/nlom0218) | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse1) |
-|  숫자 야구 게임  | `22-11-02` - `22-11-08` | [Repo](https://github.com/nlom0218/javascript-baseball/tree/nlom0218)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse2) |
-|    로또 게임     | `22-11-09` - `22-11-15` | [Repo](https://github.com/nlom0218/javascript-lotto/tree/nlom0218)      | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse3) |
-| 다리 건너기 게임 | `22-11-15` - `22-11-21` | [Repo](https://github.com/nlom0218/javascript-bridge/tree/nlom0218)     | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse4) |
-|  점심 메뉴 추천  |       `22-12-17`        | [Repo](https://github.com/nlom0218/javascript-menu)                     | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/finaltest)  |
+|  숫자 야구 게임  | `22-11-02` - `22-11-08` |  [Repo](https://github.com/nlom0218/javascript-baseball/tree/nlom0218)  | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse2) |
+|    로또 게임     | `22-11-09` - `22-11-15` |   [Repo](https://github.com/nlom0218/javascript-lotto/tree/nlom0218)    | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse3) |
+| 다리 건너기 게임 | `22-11-15` - `22-11-21` |   [Repo](https://github.com/nlom0218/javascript-bridge/tree/nlom0218)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse4) |
+|  점심 메뉴 추천  |       `22-12-17`        |           [Repo](https://github.com/nlom0218/javascript-menu)           | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/finaltest)  |
 
 [우테코 최종 합격 후기](https://noah-dev.gitbook.io/til/diary/woowaprecourse/pass)
 
@@ -31,8 +31,8 @@
 
 ### 📝 Prolog
 
-|                          주제                          |     미션     | Prolog 바로가기                                          |
-| :----------------------------------------------------: | :----------: | -------------------------------------------------------- |
+|                          주제                          |     미션     |                     Prolog 바로가기                      |
+| :----------------------------------------------------: | :----------: | :------------------------------------------------------: |
 |            Object는 순서를 보장하지 않는다.            | 행운의 로또  | [Prolog](https://prolog.techcourse.co.kr/studylogs/2677) |
 |           타입스크립트에서 중복 제거하기 ✂️            | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/2784) |
 | ArrayLike 타입을 활용하여 로컬스토리지에 객체 저장하기 | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3042) |
