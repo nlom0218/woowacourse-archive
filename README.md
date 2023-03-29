@@ -37,5 +37,5 @@
 |           타입스크립트에서 중복 제거하기 ✂️            | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/2784) |
 | ArrayLike 타입을 활용하여 로컬스토리지에 객체 저장하기 | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3042) |
 
-글쓰기 - [우아한테크코스 한 달 생활기](https://github.com/nlom0218/woowa-writing-5/tree/nlom0218-level1)
+글쓰기 - [우아한테크코스 한 달 생활기](https://github.com/nlom0218/woowa-writing-5/tree/nlom0218-level1)  
 레벨 로그 - [레벨1 레벨 로그](https://docs.google.com/document/d/1Dab6-jZBoEL_NhwsbqnfG69BxRVtkodpIGdxPJlx2hQ/edit?usp=sharing)
