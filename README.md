@@ -16,6 +16,8 @@
 
 ## 1️⃣ Level 1 - 프로그래밍 기본
 
+### 🎯 미션
+
 |        미션        |          기간           | Repository                                                                      | PR & Review                                                                   | 회고록                                                                                      | github page                                                         |
 | :----------------: | :---------------------: | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | 자동차 경주 1단계  | `23-02-07` - `23-02-09` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/main)            | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-racingcar-step1)   |                                                                     |
@@ -25,3 +27,15 @@
 | 점심 뭐 먹지 1단계 | `23-02-28` - `23-03-03` | [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step1)        | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/38)        | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lunch-step1)       | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
 | 점심 뭐 먹지 2단계 | `23-03-04` - `23-03-13` | [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step2)        | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/63)        | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lunch-step2)       | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
 |  영화 리뷰 1단계   | `23-03-14` - `23-03-16` | [Repo](https://github.com/nlom0218/javascript-movie-review/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/28) | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-moviereview-step1) | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
+|  영화 리뷰 2단계   | `23-03-28` - `23-03-27` | [Repo](https://github.com/nlom0218/javascript-movie-review/tree/step2)          | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/57) | [작성중]()                                                                                  | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
+
+### 📝 Prolog
+
+|                          주제                          |     미션     | Prolog                                                   |
+| :----------------------------------------------------: | :----------: | -------------------------------------------------------- |
+|            Object는 순서를 보장하지 않는다.            | 행운의 로또  | [Prolog](https://prolog.techcourse.co.kr/studylogs/2677) |
+|           타입스크립트에서 중복 제거하기 ✂️            | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/2784) |
+| ArrayLike 타입을 활용하여 로컬스토리지에 객체 저장하기 | 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3042) |
+
+글쓰기 - [우아한테크코스 한 달 생활기](https://github.com/nlom0218/woowa-writing-5/tree/nlom0218-level1)
+레벨 로그 - [레벨1 레벨 로그](https://docs.google.com/document/d/1Dab6-jZBoEL_NhwsbqnfG69BxRVtkodpIGdxPJlx2hQ/edit?usp=sharing)
