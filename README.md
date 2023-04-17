@@ -4,15 +4,15 @@
 
 ### 🎯 프로그래밍 미션
 
-|       미션       |          기간           |                               Repository                                | 회고록                                                                    |
-| :--------------: | :---------------------: | :---------------------------------------------------------------------: | ------------------------------------------------------------------------- |
-|      온보딩      | `22-10-26` - `22-11-01` | [Repo](https://github.com/nlom0218/javascript-onboarding/tree/nlom0218) | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse1) |
-|  숫자 야구 게임  | `22-11-02` - `22-11-08` |  [Repo](https://github.com/nlom0218/javascript-baseball/tree/nlom0218)  | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse2) |
-|    로또 게임     | `22-11-09` - `22-11-15` |   [Repo](https://github.com/nlom0218/javascript-lotto/tree/nlom0218)    | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse3) |
-| 다리 건너기 게임 | `22-11-15` - `22-11-21` |   [Repo](https://github.com/nlom0218/javascript-bridge/tree/nlom0218)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/precourse4) |
-|  점심 메뉴 추천  |       `22-12-17`        |           [Repo](https://github.com/nlom0218/javascript-menu)           | [회고록](https://noah-dev.gitbook.io/til/diary/woowaprecourse/finaltest)  |
+|       미션       |          기간           |                               Repository                                | 회고록                                   |
+| :--------------: | :---------------------: | :---------------------------------------------------------------------: | ---------------------------------------- |
+|      온보딩      | `22-10-26` - `22-11-01` | [Repo](https://github.com/nlom0218/javascript-onboarding/tree/nlom0218) | [회고록](https://noah-dev.tistory.com/2) |
+|  숫자 야구 게임  | `22-11-02` - `22-11-08` |  [Repo](https://github.com/nlom0218/javascript-baseball/tree/nlom0218)  | [회고록](https://noah-dev.tistory.com/3) |
+|    로또 게임     | `22-11-09` - `22-11-15` |   [Repo](https://github.com/nlom0218/javascript-lotto/tree/nlom0218)    | [회고록](https://noah-dev.tistory.com/4) |
+| 다리 건너기 게임 | `22-11-15` - `22-11-21` |   [Repo](https://github.com/nlom0218/javascript-bridge/tree/nlom0218)   | [회고록](https://noah-dev.tistory.com/5) |
+|  점심 메뉴 추천  |       `22-12-17`        |           [Repo](https://github.com/nlom0218/javascript-menu)           | [회고록](https://noah-dev.tistory.com/6) |
 
-[우테코 최종 합격 후기](https://noah-dev.gitbook.io/til/diary/woowaprecourse/pass)
+[우테코 최종 합격 후기](https://noah-dev.tistory.com/7)
 
 ---
 
@@ -20,16 +20,16 @@
 
 ### 🎯 프로그래밍 미션
 
-|        미션        |          기간           |                                   Repository                                    | PR & Review                                                                   | 회고록                                                                                      | github page                                                         |
-| :----------------: | :---------------------: | :-----------------------------------------------------------------------------: | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 자동차 경주 1단계  | `23-02-07` - `23-02-09` |      [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/main)       | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-racingcar-step1)   |                                                                     |
-| 자동차 경주 2단계  | `23-02-10` - `23-02-13` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/nlom0218-step2)  | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/242)   | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-racingcar-step2)   |                                                                     |
-| 행운의 로또 1단계  | `23-02-14` - `23-02-16` |   [Repo](https://github.com/nlom0218/javascript-lotto-1/tree/nlom0218-step1)    | [PR & Review](https://github.com/woowacourse/javascript-lotto/pull/196)       | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lotto-step1)       |                                                                     |
-| 행운의 로또 2단계  | `23-02-17` - `23-02-27` |   [Repo](https://github.com/nlom0218/javascript-lotto-1/tree/nlom0218-step2)    | [PR & Review](https://github.com/woowacourse/javascript-lotto/pull/230)       | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lotto-step2)       | [🎱 행운의 로또](https://nlom0218.github.io/javascript-lotto-1/)    |
-| 점심 뭐 먹지 1단계 | `23-02-28` - `23-03-03` |    [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step1)     | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/38)        | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lunch-step1)       | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
-| 점심 뭐 먹지 2단계 | `23-03-04` - `23-03-13` |    [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step2)     | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/63)        | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-lunch-step2)       | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
-|  영화 리뷰 1단계   | `23-03-14` - `23-03-16` | [Repo](https://github.com/nlom0218/javascript-movie-review/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/28) | [회고록](https://noah-dev.gitbook.io/til/diary/woowacourse/level1/level1-moviereview-step1) | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
-|  영화 리뷰 2단계   | `23-03-28` - `23-03-27` |     [Repo](https://github.com/nlom0218/javascript-movie-review/tree/step2)      | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/57) | [작성중]()                                                                                  | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
+|        미션        |          기간           |                                   Repository                                    | PR & Review                                                                   | 회고록                                    | github page                                                         |
+| :----------------: | :---------------------: | :-----------------------------------------------------------------------------: | ----------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------- |
+| 자동차 경주 1단계  | `23-02-07` - `23-02-09` |      [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/main)       | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/178)   | [회고록](https://noah-dev.tistory.com/11) |                                                                     |
+| 자동차 경주 2단계  | `23-02-10` - `23-02-13` | [Repo](https://github.com/nlom0218/javascript-racingcar-1/tree/nlom0218-step2)  | [PR & Review](https://github.com/woowacourse/javascript-racingcar/pull/242)   | [회고록](https://noah-dev.tistory.com/12) |                                                                     |
+| 행운의 로또 1단계  | `23-02-14` - `23-02-16` |   [Repo](https://github.com/nlom0218/javascript-lotto-1/tree/nlom0218-step1)    | [PR & Review](https://github.com/woowacourse/javascript-lotto/pull/196)       | [회고록](https://noah-dev.tistory.com/19) |                                                                     |
+| 행운의 로또 2단계  | `23-02-17` - `23-02-27` |   [Repo](https://github.com/nlom0218/javascript-lotto-1/tree/nlom0218-step2)    | [PR & Review](https://github.com/woowacourse/javascript-lotto/pull/230)       | [회고록](https://noah-dev.tistory.com/20) | [🎱 행운의 로또](https://nlom0218.github.io/javascript-lotto-1/)    |
+| 점심 뭐 먹지 1단계 | `23-02-28` - `23-03-03` |    [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step1)     | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/38)        | [회고록](https://noah-dev.tistory.com/22) | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
+| 점심 뭐 먹지 2단계 | `23-03-04` - `23-03-13` |    [Repo](https://github.com/nlom0218/javascript-lunch/tree/nlom0218-step2)     | [PR & Review](https://github.com/woowacourse/javascript-lunch/pull/63)        | [회고록](https://noah-dev.tistory.com/23) | [🍚 점심 뭐 먹지](https://nlom0218.github.io/javascript-lunch/)     |
+|  영화 리뷰 1단계   | `23-03-14` - `23-03-16` | [Repo](https://github.com/nlom0218/javascript-movie-review/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/28) | [회고록](https://noah-dev.tistory.com/24) | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
+|  영화 리뷰 2단계   | `23-03-17` - `23-03-27` |     [Repo](https://github.com/nlom0218/javascript-movie-review/tree/step2)      | [PR & Review](https://github.com/woowacourse/javascript-movie-review/pull/57) | [회고록](https://noah-dev.tistory.com/25) | [🎬 영화 리뷰](https://nlom0218.github.io/javascript-movie-review/) |
 
 ### 🍀 소프트스킬 미션
 
@@ -46,5 +46,5 @@
 
 ### 🧚‍♀️ 회고
 
-[레벨 인터뷰 회고]()  
+[레벨 인터뷰 회고](https://noah-dev.tistory.com/26)  
 [레벨1 회고]()
