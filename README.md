@@ -46,8 +46,7 @@
 
 ### 🧚‍♀️ 회고
 
-[레벨 인터뷰 회고](https://noah-dev.tistory.com/26)  
-[레벨1 회고]()
+[레벨 인터뷰 회고](https://noah-dev.tistory.com/26)
 
 ---
 
@@ -55,6 +54,7 @@
 
 ### 🎯 프로그래밍 미션
 
-|      미션       |          기간           |                             Repository                              | PR & Review                                                       | 회고록                                    | github page                                             |
-| :-------------: | :---------------------: | :-----------------------------------------------------------------: | ----------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------- |
-| 영화 리뷰 1단계 | `23-04-04` - `23-04-10` | [Repo](https://github.com/nlom0218/react-lunch/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/react-lunch/pull/29) | [회고록](https://noah-dev.tistory.com/28) | [🎬 영화 리뷰](https://nlom0218.github.io/react-lunch/) |
+|           미션           |          기간           |                             Repository                              | PR & Review                                                       | 회고록                                    | github page                                                |
+| :----------------------: | :---------------------: | :-----------------------------------------------------------------: | ----------------------------------------------------------------- | ----------------------------------------- | ---------------------------------------------------------- |
+| 다시, 점심 뭐 먹지 1단계 | `23-04-11` - `23-04-13` | [Repo](https://github.com/nlom0218/react-lunch/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/react-lunch/pull/29) | [회고록](https://noah-dev.tistory.com/28) | [🍚 점심 뭐 먹지](https://nlom0218.github.io/react-lunch/) |
+| 다시, 점심 뭐 먹지 2단계 | `23-04-14` - `23-04-17` | [Repo](https://github.com/nlom0218/react-lunch/tree/nlom0218-step2) | [PR & Review](https://github.com/woowacourse/react-lunch/pull/66) | [회고록](https://noah-dev.tistory.com/30) | [🍚 점심 뭐 먹지](https://nlom0218.github.io/react-lunch/) |
