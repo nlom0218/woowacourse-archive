@@ -60,6 +60,7 @@
 | 다시, 점심 뭐 먹지 2단계 | `23-04-14` - `23-04-17` |  [Repo](https://github.com/nlom0218/react-lunch/tree/nlom0218-step2)   | [PR & Review](https://github.com/woowacourse/react-lunch/pull/66)     | [회고록](https://noah-dev.tistory.com/30) | [🍚 점심 뭐 먹지](https://nlom0218.github.io/react-lunch/) |
 |      페이먼츠 1단계      | `23-04-18` - `23-04-23` |  [Repo](https://github.com/nlom0218/react-lunch/tree/nlom0218-step1)   | [PR & Review](https://github.com/woowacourse/react-payments/pull/189) | [회고록](https://noah-dev.tistory.com/31) | [💳 페이먼츠](https://nlom0218.github.io/react-payments/)  |
 |      페이먼츠 2단계      | `23-04-24` - `23-05-01` | [Repo](https://github.com/nlom0218/react-payments/tree/nlom0218-step2) | [PR & Review](https://github.com/woowacourse/react-payments/pull/242) | [회고록](https://noah-dev.tistory.com/35) | [💳 페이먼츠](https://nlom0218.github.io/react-payments/)  |
+|      페이먼츠 3단계      | `23-05-01` - `23-05-08` | [Repo](https://github.com/nlom0218/react-payments/tree/nlom0218-step3) | [PR & Review](https://github.com/woowacourse/react-payments/pull/308) | [회고록](https://noah-dev.tistory.com/36) | [💳 페이먼츠](https://nlom0218.github.io/react-payments/)  |
 
 ### 📚 스토리북
 
