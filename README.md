@@ -62,7 +62,7 @@
 |      페이먼츠 2단계      | `23-04-24` - `23-05-01` |      [Repo](https://github.com/nlom0218/react-payments/tree/nlom0218-step2)      | [PR & Review](https://github.com/woowacourse/react-payments/pull/242)          | [회고록](https://noah-dev.tistory.com/35) | [💳 페이먼츠](https://nlom0218.github.io/react-payments/)           |
 |      페이먼츠 3단계      | `23-05-01` - `23-05-08` |      [Repo](https://github.com/nlom0218/react-payments/tree/nlom0218-step3)      | [PR & Review](https://github.com/woowacourse/react-payments/pull/308)          | [회고록](https://noah-dev.tistory.com/36) | [💳 페이먼츠](https://nlom0218.github.io/react-payments/)           |
 |      장바구니 1단계      | `23-05-09` - `23-05-14` |   [Repo](https://github.com/nlom0218/react-shopping-cart/tree/nlom0218-step1)    | [PR & Review](https://github.com/woowacourse/react-shopping-cart/pull/180)     | [회고록](https://noah-dev.tistory.com/37) | [🛍️ 장바구니](https://nlom0218.github.io/react-shopping-cart/)      |
-|      장바구니 2단계      | `23-05-15` - `23-05-22` |   [Repo](https://github.com/nlom0218/react-shopping-cart/tree/nlom0218-step2)    | [PR & Review](https://github.com/woowacourse/react-shopping-cart/pull/201)     | [회고록]() - x                            | [🛍️ 장바구니](https://nlom0218.github.io/react-shopping-cart/)      |
+|      장바구니 2단계      | `23-05-15` - `23-05-22` |   [Repo](https://github.com/nlom0218/react-shopping-cart/tree/nlom0218-step2)    | [PR & Review](https://github.com/woowacourse/react-shopping-cart/pull/201)     | [회고록](https://noah-dev.tistory.com/40) | [🛍️ 장바구니](https://nlom0218.github.io/react-shopping-cart/)      |
 |   장바구니 협업 1단계    | `23-05-23` - `23-05-26` | [Repo](https://github.com/nlom0218/react-shopping-cart-prod/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/react-shopping-cart-prod/pull/87) | [회고록]() - x                            | [🛒 장바구니](https://nlom0218.github.io/react-shopping-cart-prod/) |
 
 ### 📚 스토리북
@@ -71,7 +71,7 @@
 | :-----------: | :----------------------------------------------------------------------------: |
 |   페이먼츠    | [📚 스토리북](https://nlom0218-step3--64438130ed1ba3bc955c84aa.chromatic.com/) |
 |   장바구니    | [📚 스토리북](https://nlom0218-step2--645ca2eaf1be7c5699754358.chromatic.com)  |
-| 장바구니 협업 | [📚 스토리북](https://nlom0218-step1--646f1b197e7cf65a7e5c4bb2.chromatic.com)  |
+| 장바구니 협업 | [📚 스토리북](https://nlom0218-step2--646f1b197e7cf65a7e5c4bb2.chromatic.com)  |
 
 ### 📝 Prolog
 
