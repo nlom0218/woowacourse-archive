@@ -81,6 +81,11 @@
 |               react-router-dom v6.4 사용하기                | 장바구니 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3573) |
 |              State를 구조화하는 다섯 가지 원칙              | 장바구니 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3597) |
 
+### 🍀 소프트스킬 미션
+
+글쓰기 - [우아한테크코스 한 달 생활기](https://github.com/nlom0218/woowa-writing-5/blob/nlom0218-level2/Level2.md)  
+레벨 로그 - [레벨1 레벨 로그](https://docs.google.com/document/d/1Bx82fby-nQo8NAzyIPFIXNLlqzcOuzpFQh00PlwCM4M/edit?usp=sharing)
+
 ### 🗂️ 기타
 
 #### 모달 라이브러리
