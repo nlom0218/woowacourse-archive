@@ -83,8 +83,8 @@
 
 ### 🍀 소프트스킬 미션
 
-글쓰기 - [우아한테크코스 한 달 생활기](https://github.com/nlom0218/woowa-writing-5/blob/nlom0218-level2/Level2.md)  
-레벨 로그 - [레벨1 레벨 로그](https://docs.google.com/document/d/1Bx82fby-nQo8NAzyIPFIXNLlqzcOuzpFQh00PlwCM4M/edit?usp=sharing)
+글쓰기 - [자유 주제 - 지금 어때?](https://github.com/nlom0218/woowa-writing-5/blob/nlom0218-level2/Level2.md)  
+레벨 로그 - [레벨2 레벨 로그](https://docs.google.com/document/d/1Bx82fby-nQo8NAzyIPFIXNLlqzcOuzpFQh00PlwCM4M/edit?usp=sharing)
 
 ### 🗂️ 기타
 
