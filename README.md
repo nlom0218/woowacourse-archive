@@ -75,11 +75,12 @@
 
 ### 📝 Prolog
 
-|                            주제                             |   미션   |                     Prolog 바로가기                      |
-| :---------------------------------------------------------: | :------: | :------------------------------------------------------: |
-| 리액트에서 Paths Alias 사용하기(CRA, Storybook 설정도 함께) | 페이먼츠 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3306) |
-|               react-router-dom v6.4 사용하기                | 장바구니 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3573) |
-|              State를 구조화하는 다섯 가지 원칙              | 장바구니 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3597) |
+|                            주제                             |        미션        |                     Prolog 바로가기                      |
+| :---------------------------------------------------------: | :----------------: | :------------------------------------------------------: |
+|      클래스형 컴포넌트와 함수형 컴포넌트의 4가지 차이       | 다시, 점심 뭐 먹지 | [Prolog](https://prolog.techcourse.co.kr/studylogs/3734) |
+| 리액트에서 Paths Alias 사용하기(CRA, Storybook 설정도 함께) |      페이먼츠      | [Prolog](https://prolog.techcourse.co.kr/studylogs/3306) |
+|               react-router-dom v6.4 사용하기                |      장바구니      | [Prolog](https://prolog.techcourse.co.kr/studylogs/3573) |
+|              State를 구조화하는 다섯 가지 원칙              |      장바구니      | [Prolog](https://prolog.techcourse.co.kr/studylogs/3597) |
 
 ### 🍀 소프트스킬 미션
 
