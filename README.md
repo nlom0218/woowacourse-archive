@@ -106,3 +106,4 @@
 | 스프린트 |          기간           |                  회고록                   |                                       github milestone                                        |
 | :------: | :---------------------: | :---------------------------------------: | :-------------------------------------------------------------------------------------------: |
 |   1차    | `23-06-27` - `23-07-07` | [회고록](https://noah-dev.tistory.com/44) | [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/1?closed=1) |
+|   2차    | `23-07-10` - `23-07-21` | [회고록](https://noah-dev.tistory.com/45) |     [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/2)      |
