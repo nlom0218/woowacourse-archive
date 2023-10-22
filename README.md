@@ -108,7 +108,7 @@
 |   1차    | `23-06-27` - `23-07-07` | [회고록](https://noah-dev.tistory.com/44) | [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/1?closed=1) |
 |   2차    | `23-07-10` - `23-07-21` | [회고록](https://noah-dev.tistory.com/45) |     [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/2)      |
 |   3차    | `23-07-24` - `23-08-04` | [회고록](https://noah-dev.tistory.com/50) |     [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/3)      |
-|   4차    | `23-07-24` - `23-08-04` |                     -                     |     [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/3)      |
+|   4차    | `23-08-07` - `23-08-18` |                     -                     |     [github milestone](https://github.com/woowacourse-teams/2023-haru-study/milestone/4)      |
 
 ---
 
