@@ -121,3 +121,7 @@
 |  레이아웃 컴포넌트 2단계   | `23-09-21` - `23-10-02` |      [Repo](https://github.com/nlom0218/layout-component/tree/step2)       | [PR & Review](https://github.com/woowacourse/layout-component/pull/53)   |
 | 프론트엔드의 랜더링 1단계  | `23-10-04` - `23-10-11` | [Repo](https://github.com/nlom0218/frontend-rendering/tree/nlom0218-step1) | [PR & Review](https://github.com/woowacourse/frontend-rendering/pull/9)  |
 | 프론트엔드의 랜더링 2단계  | `23-10-12` - `23-10-23` | [Repo](https://github.com/nlom0218/frontend-rendering/tree/nlom0218-step2) | [PR & Review](https://github.com/woowacourse/frontend-rendering/pull/85) |
+
+### 🍀 소프트스킬 미션
+
+글쓰기 - [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/nlom0218/woowa-writing-5/blob/nlom0218-level4/Level4.md)
